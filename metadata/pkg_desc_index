@@ -1,0 +1,2 @@
+dev-util/vulkan-headers 1.3.208 1.3.209 1.3.210: Vulkan Header files and API registry
+media-libs/vulkan-loader 1.3.208 1.3.209 1.3.210: Vulkan Installable Client Driver (ICD) Loader
